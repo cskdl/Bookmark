@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Bookmark.cpp
+C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Bookmark.cpp(104,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Bookmark.cpp(168,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Bookmark.cpp(197,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Bookmark.cpp(272,40): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Bookmark.cpp(281,40): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  Manager.cpp
+  코드를 생성하고 있습니다...
+  1406_박찬이_플밍_Project.vcxproj -> C:\Users\USER\Desktop\여러가지\학교\프로그래밍\1-2\프로젝트\1406_박찬이_플밍_Project\1406_박찬이_플밍_Project\Debug\1406_박찬이_플밍_Project.exe
